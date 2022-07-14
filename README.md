@@ -1,4 +1,4 @@
-# skyroute
+# Skyroute
  
 Routing Program to Help Vancouver Commuters
 
